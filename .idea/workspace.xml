@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="1-1. 배열">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListP3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListP4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListPractice3.java" afterDir="false" />
+    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="1-2. 연결리스트">
       <change afterPath="$PROJECT_DIR$/src/Queue1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/QueuePractice.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Stack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackP4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/StackPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackPractice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,28 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="애플리케이션.LinkedListP2">
-    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayPractice" />
-      <module name="java-data-structure" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList1" />
-      <module name="java-data-structure" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="애플리케이션.StackP1">
     <configuration name="LinkedListP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedListP2" />
       <module name="java-data-structure" />
@@ -80,12 +62,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackP1" />
+      <module name="java-data-structure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackPractice" />
+      <module name="java-data-structure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackPractice2" />
+      <module name="java-data-structure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.StackP1" />
+        <item itemvalue="애플리케이션.StackPractice2" />
+        <item itemvalue="애플리케이션.StackPractice" />
         <item itemvalue="애플리케이션.LinkedListP2" />
         <item itemvalue="애플리케이션.LinkedListPractice" />
-        <item itemvalue="애플리케이션.LinkedList1" />
-        <item itemvalue="애플리케이션.ArrayPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658214896537</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1-2. 연결리스트">
+      <created>1658221148661</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658221148661</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="1-1. 배열" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-1. 배열" />
+    <MESSAGE value="1-2. 연결리스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-2. 연결리스트" />
   </component>
 </project>
