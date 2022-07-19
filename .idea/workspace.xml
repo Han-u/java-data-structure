@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="1-2. 연결리스트">
+    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="1-3. 스택">
       <change afterPath="$PROJECT_DIR$/src/Queue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueueP2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/QueuePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stack1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackP3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackP4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QueuePractice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +43,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.StackP1">
-    <configuration name="LinkedListP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListP2" />
+  <component name="RunManager" selected="애플리케이션.QueueP1">
+    <configuration name="QueueP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueP1" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListPractice" />
+    <configuration name="QueuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueuePractice" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.QueueP1" />
+        <item itemvalue="애플리케이션.QueuePractice" />
         <item itemvalue="애플리케이션.StackP1" />
         <item itemvalue="애플리케이션.StackPractice2" />
         <item itemvalue="애플리케이션.StackPractice" />
-        <item itemvalue="애플리케이션.LinkedListP2" />
-        <item itemvalue="애플리케이션.LinkedListPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658221148661</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1-3. 스택">
+      <created>1658246814596</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658246814597</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +144,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="1-1. 배열" />
     <MESSAGE value="1-2. 연결리스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-2. 연결리스트" />
+    <MESSAGE value="1-3. 스택" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-3. 스택" />
   </component>
 </project>
