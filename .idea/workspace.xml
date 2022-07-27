@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="1-3. 스택">
-      <change afterPath="$PROJECT_DIR$/src/Queue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueueP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueuePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QueuePractice2.java" afterDir="false" />
+    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="1-4. 큐">
+      <change afterPath="$PROJECT_DIR$/src/Deque1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequeP1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequeP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequeP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequeP4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DequePractice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,37 +45,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.QueueP1">
-    <configuration name="QueueP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueueP1" />
+  <component name="RunManager" selected="애플리케이션.DequeP4">
+    <configuration name="DequeP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DequeP1" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueuePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QueuePractice" />
+    <configuration name="DequeP2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DequeP2" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackP1" />
+    <configuration name="DequeP4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DequeP4" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackPractice" />
+    <configuration name="DequePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DequePractice" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StackPractice2" />
+    <configuration name="DequePractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DequePractice2" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.QueueP1" />
-        <item itemvalue="애플리케이션.QueuePractice" />
-        <item itemvalue="애플리케이션.StackP1" />
-        <item itemvalue="애플리케이션.StackPractice2" />
-        <item itemvalue="애플리케이션.StackPractice" />
+        <item itemvalue="애플리케이션.DequeP4" />
+        <item itemvalue="애플리케이션.DequeP2" />
+        <item itemvalue="애플리케이션.DequeP1" />
+        <item itemvalue="애플리케이션.DequePractice2" />
+        <item itemvalue="애플리케이션.DequePractice" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658246814597</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="1-4. 큐">
+      <created>1658250656760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658250656760</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +154,7 @@
     <MESSAGE value="1-1. 배열" />
     <MESSAGE value="1-2. 연결리스트" />
     <MESSAGE value="1-3. 스택" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-3. 스택" />
+    <MESSAGE value="1-4. 큐" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-4. 큐" />
   </component>
 </project>
