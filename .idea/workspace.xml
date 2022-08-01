@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="2-2. 이진탐색트리">
-      <change afterPath="$PROJECT_DIR$/src/Graph1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphPractice4.java" afterDir="false" />
+    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="2-3. 그래프">
+      <change afterPath="$PROJECT_DIR$/src/Heap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityQueue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PriorityQueuePractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trie1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659374442727</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2-3. 그래프">
+      <created>1659376050865</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659376050865</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2-3. 그래프">
+      <created>1659376057086</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659376057086</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +206,7 @@
     <MESSAGE value="1-7. 선형자료구조 연습문제" />
     <MESSAGE value="2-1. 트리" />
     <MESSAGE value="2-2. 이진탐색트리" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-2. 이진탐색트리" />
+    <MESSAGE value="2-3. 그래프" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-3. 그래프" />
   </component>
 </project>
