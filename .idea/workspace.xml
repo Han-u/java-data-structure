@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="2-1. 트리">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearchTree5.java" afterDir="false" />
+    <list default="true" id="20391107-0347-45aa-9fcd-4c07f2596f96" name="변경" comment="2-2. 이진탐색트리">
       <change afterPath="$PROJECT_DIR$/src/Graph1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/GraphPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GraphPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GraphPractice4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.BinarySearchTree1">
+  <component name="RunManager" selected="애플리케이션.Graph1">
     <configuration name="BinarySearchTree1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearchTree1" />
       <module name="java-data-structure" />
@@ -53,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearPractice4" />
+    <configuration name="Graph1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph1" />
       <module name="java-data-structure" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Graph1" />
         <item itemvalue="애플리케이션.BinarySearchTree1" />
         <item itemvalue="애플리케이션.TreeP2" />
         <item itemvalue="애플리케이션.LinearPractice7" />
         <item itemvalue="애플리케이션.LinearPractice6" />
-        <item itemvalue="애플리케이션.LinearPractice4" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659288799736</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2-2. 이진탐색트리">
+      <created>1659374442727</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1659374442727</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +191,7 @@
     <MESSAGE value="1-6. 해시테이블" />
     <MESSAGE value="1-7. 선형자료구조 연습문제" />
     <MESSAGE value="2-1. 트리" />
-    <option name="LAST_COMMIT_MESSAGE" value="2-1. 트리" />
+    <MESSAGE value="2-2. 이진탐색트리" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-2. 이진탐색트리" />
   </component>
 </project>
